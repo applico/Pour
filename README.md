@@ -37,3 +37,10 @@ Dependencies:
 ```pigpio``` - http://abyz.co.uk/rpi/pigpio/
 
 Install both libraries, then run ```make``` in both the ```flowmeter``` and ```temp_humid``` directories.  Run ```sudo python server.py``` in the main directory to start the server.
+
+###Credits
+FlatUIKit - https://github.com/Grouper/FlatUIKit
+
+Adafruit Temperature and Humidity Sensor code - give credit for temp + humidity sensor driver https://github.com/adafruit/Adafruit_Python_DHT
+
+Flowmeter Code -  http://direct.raspberrypi.org/forums/viewtopic.php?t=73534
