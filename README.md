@@ -28,7 +28,7 @@ Node.js Server Code:
 
 ```newrelic.js``` - name your app and provide your license_key
 
-Raspberry Pi Python Code:
+Raspberry Pi Python and C Code:
 
 Dependencies:
 
@@ -41,6 +41,6 @@ Install both libraries, then run ```make``` in both the ```flowmeter``` and ```t
 ###Credits
 FlatUIKit - https://github.com/Grouper/FlatUIKit
 
-Adafruit Temperature and Humidity Sensor code - give credit for temp + humidity sensor driver https://github.com/adafruit/Adafruit_Python_DHT
+Adafruit Temperature and Humidity Sensor code - https://github.com/adafruit/Adafruit_Python_DHT
 
 Flowmeter Code -  http://direct.raspberrypi.org/forums/viewtopic.php?t=73534
